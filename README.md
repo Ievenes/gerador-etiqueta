@@ -1,3 +1,4 @@
+
 ### 🏷️ Gerador de Etiquetas em PDF
 
 Gera etiquetas padronizadas em PDF com base em dados do Excel. Simples, rápido e portátil — ideal para logística e expedição.
